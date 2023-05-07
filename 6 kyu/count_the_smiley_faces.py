@@ -8,5 +8,5 @@ def count_smileys(arr):
     return count
 
 
-arr = [';]', ':[', ';*', ':$', ';-D']
-print(count_smileys(arr))
+# arr = [';]', ':[', ';*', ':$', ';-D']
+# print(count_smileys(arr))
