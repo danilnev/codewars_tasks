@@ -3,9 +3,9 @@ def unique_in_order(s):
     return list(filter(lambda x: x is not None, letters))
 
 
-print(
-    unique_in_order('AAAABBBCCDAABBB'),
-    unique_in_order('ABBCcAD'),
-    unique_in_order([1, 2, 2, 3, 3]),
-    unique_in_order((1, 2, 2, 3, 3)), sep='\n'
-)
+# print(
+#     unique_in_order('AAAABBBCCDAABBB'),
+#     unique_in_order('ABBCcAD'),
+#     unique_in_order([1, 2, 2, 3, 3]),
+#     unique_in_order((1, 2, 2, 3, 3)), sep='\n'
+# )
